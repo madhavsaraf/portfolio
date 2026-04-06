@@ -16,5 +16,5 @@
 ## 📬 Contact
 
 - **GitHub**: [github.com/madhavsaraf](https://github.com/madhavsaraf)
-- **Email**: *(add your email)*
+- **Email**: *madsaf2005@gmail.com*
 - **LinkedIn**: *(add your LinkedIn)*
