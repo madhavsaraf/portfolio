@@ -10,6 +10,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [📋 Order Form Manager](./projects/order-form-manager.md) | Multi-tenant PWA for textile trading businesses — AI voice/OCR input, Firebase, RBAC | React 19, TypeScript, Firebase, Sarvam AI, Google Vision API |
+| [🍽️ InnovraDINE](./projects/innovradine.md) | QR-based restaurant ordering & growth platform — real-time orders, AI menu import, payment gateway integration, Python Cloud Functions | React 18, TypeScript, Firebase, Python, Gemini AI, shadcn/ui |
 
 ---
 
@@ -17,4 +18,3 @@
 
 - **GitHub**: [github.com/madhavsaraf](https://github.com/madhavsaraf)
 - **Email**: *madsaf2005@gmail.com*
-- **LinkedIn**: *(add your LinkedIn)*
